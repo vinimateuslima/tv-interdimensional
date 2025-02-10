@@ -1,0 +1,19 @@
+.row {
+  height: 100vh;
+}
+
+.col {
+  padding: 1em;
+
+}
+
+.centro {
+  width: 50%;
+
+}
+
+#relacionados {
+  display: flex;
+  flex-direction: column;
+  gap: 15px 0;
+}

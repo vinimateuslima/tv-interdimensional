@@ -1,0 +1,26 @@
+.minicard {
+  display: flex;
+  flex-direction: row;
+  height: 152px;
+  gap: 0 10px;
+
+  
+}
+
+.linha {
+  margin: 0;
+}
+
+
+.minicard .card-title h4{
+    font-size: 1.3em;
+}
+
+.minicard .card-description {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-word;
+}

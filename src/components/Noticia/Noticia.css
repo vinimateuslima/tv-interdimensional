@@ -1,0 +1,15 @@
+.noticia {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 1em;
+}
+
+
+.noticia .titulo h1 {
+    font-size: 3em;
+}
+
+.noticia .imagem img {
+    width: 100%;
+}
