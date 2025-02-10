@@ -1,5 +1,5 @@
-# Vini News
-Este projeto é uma página de notícias simples feito utilizando React para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
+# Tv Interdimensional
+Este projeto é uma página de notícias simples feito utilizando React com o tema de Rick e Morty para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
 
 
 ## 🛠️ Construído com
