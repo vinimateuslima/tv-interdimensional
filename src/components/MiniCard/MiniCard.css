@@ -3,17 +3,14 @@
   flex-direction: row;
   height: 152px;
   gap: 0 10px;
-
-  
 }
 
 .linha {
   margin: 0;
 }
 
-
-.minicard .card-title h4{
-    font-size: 1.3em;
+.minicard .card-title h4 {
+  font-size: 1.3em;
 }
 
 .minicard .card-description {
